@@ -1,0 +1,2 @@
+If you need to add HTML tag inside an existing tag with JS Dom, here is the solution.
+Sometimes when you work with dynamic content especially with WordPress, you may need to manipulate markup. Then this will be useful.
